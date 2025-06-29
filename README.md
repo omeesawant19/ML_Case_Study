@@ -73,4 +73,11 @@ Simulation tests: impact analysis
                        suggestion_engine → [Investment Plan]
                                ↓
                          evaluation → [Reports & Metrics]
+```
+##  Motivation
 
+-  Banks need fast, trustworthy loan approval tools  
+-  Borrowers benefit from investment strategies that lower loan cost  
+-  Reducing defaults safeguards both lender and borrower
+
+---
