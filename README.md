@@ -23,8 +23,7 @@ Financial institutions need a quick and reliable method to:
 ## Objectives
 -  Automate loan approvals using credit score  
 -  Integrate simple, effective investment suggestions for approved loans  
-- 
- Measure impact: default rate, ROI, borrower savings
+-  Measure impact: default rate, ROI, borrower savings
 
 ---
 
